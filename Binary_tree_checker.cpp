@@ -1,4 +1,5 @@
 #include<iostream>
+#include<vector>
 using namespace std;
 
 class Node{
@@ -37,6 +38,40 @@ int isBST(Node *root){
     
 }
 
+// Another way(algorithm):
+vector<int>vac;
+int checkBST(Node * root){
+   
+        
+        if (root == nullptr)
+        {
+            return 1;
+        }
+        
+        if (!checkBST(root->left))
+        {
+            return 0;
+        }
+
+        vac.push_back(root->data);
+
+        if (!checkBST(root->right))
+        {
+            return 0;
+        }
+
+        for (int i = 0; i < vac.size()-1; i++)
+        {
+            if (vac[i] >= vac[i+1])
+            {
+                return 0;
+            }
+            
+        }
+        
+        return 1;
+}
+
 int main(){
     
     Node *root = new Node(10);
@@ -55,9 +90,10 @@ int main(){
     n2->left = n5;
     
     cout<<isBST(root)<<endl;
+    cout<<checkBST(root)<<endl;
 
     
 
 
     return 0;
-}
+};
