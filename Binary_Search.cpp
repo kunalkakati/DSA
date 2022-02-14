@@ -9,10 +9,10 @@ int Binary_Search(int *arr, int size, int key){
     while (low <= high)
     {
         mid = (low+high)/2;
-        
+
         if(arr[mid] == key){
             cout<<arr[mid]<<" found."<<endl;
-            return key;
+            return mid;
         }
         else if (arr[mid] > key)
         {
