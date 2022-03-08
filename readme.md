@@ -36,10 +36,10 @@
 ### Tree 
 
 - [Binary Tree Traversals](https://github.com/kunalkakati/DSA/blob/main/Tree/Binary_Tree_Traversals.cpp) (PreOrder, InOrder, PostOrder)
-- [BST Insertion](https://github.com/kunalkakati/DSA/blob/main/Tree/Binary_tree_Insertion.cpp)
+- [BST Insertion](https://github.com/kunalkakati/DSA/blob/main/Tree/BST_Insertion.cpp)
 - [BST Deletion](https://github.com/kunalkakati/DSA/blob/main/Tree/BST_deletion.cpp)
 - [Searching in a BST](https://github.com/kunalkakati/DSA/blob/main/Tree/Searching_in_BST.cpp)
-- [Program to check if a binary tree is BST or not](https://github.com/kunalkakati/DSA/blob/main/Tree/Binary_tree_checker.cpp)
+- [Program to check if a binary tree is BST or not](https://github.com/kunalkakati/DSA/blob/main/Tree/isBST.cpp)
 - [Height of Tree](https://github.com/kunalkakati/DSA/blob/main/Tree/Height_of_Tree.cpp)
 - [Level Order Traversal](https://github.com/kunalkakati/DSA/blob/main/Tree/Level_Order_traversal.cpp)
 - [Lowest common ancestor of a given two node](https://github.com/kunalkakati/DSA/blob/main/Tree/Lowest_Common_Ancestor.cpp)
