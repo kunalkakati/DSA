@@ -44,6 +44,11 @@
 - [Level Order Traversal](https://github.com/kunalkakati/DSA/blob/main/Tree/Level_Order_traversal.cpp)
 - [Lowest common ancestor of a given two node](https://github.com/kunalkakati/DSA/blob/main/Tree/Lowest_Common_Ancestor.cpp)
 
+### Heap
+
+- [Heap Insertion(max Heap)](https://github.com/kunalkakati/DSA/blob/main/Heap/Heap_Insertion.cpp)
+- [Heap Deletion(max heap)](https://github.com/kunalkakati/DSA/blob/main/Heap/Heap_Deletion.cpp)
+
 ### Sorting Algorithm
 
 - [Bubble Sort](https://github.com/kunalkakati/DSA/blob/main/Sorting%20Algo/Buble_Sort_algo.cpp)
@@ -52,6 +57,7 @@
 - [Merge Sort](https://github.com/kunalkakati/DSA/blob/main/Sorting%20Algo/Merge_Sort.cpp)
 - [Quick Sort](https://github.com/kunalkakati/DSA/blob/main/Sorting%20Algo/Quick_Sort.cpp)
 - [Count Sort](https://github.com/kunalkakati/DSA/blob/main/Sorting%20Algo/Count_sort.cpp)
+- [Heap Sort](https://github.com/kunalkakati/DSA/blob/main/Heap/Heap_Sort.cpp)
 
 ### Searching Algorithm
 
