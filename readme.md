@@ -33,6 +33,11 @@
 - [Circular queue](https://github.com/kunalkakati/DSA/blob/main/Queue/Circular_Queue.cpp)
 - [Double Ended queue or DEqueue](https://github.com/kunalkakati/DSA/blob/main/Queue/Double_Ended_Queue.cpp)
 
+### Heap
+
+- [Heap Insertion(max Heap)](https://github.com/kunalkakati/DSA/blob/main/Heap/Heap_Insertion.cpp)
+- [Heap Deletion(max heap)](https://github.com/kunalkakati/DSA/blob/main/Heap/Heap_Deletion.cpp)
+
 ### Tree 
 
 - [Binary Tree Traversals](https://github.com/kunalkakati/DSA/blob/main/Tree/Binary_Tree_Traversals.cpp) (PreOrder, InOrder, PostOrder)
@@ -44,10 +49,10 @@
 - [Level Order Traversal](https://github.com/kunalkakati/DSA/blob/main/Tree/Level_Order_traversal.cpp)
 - [Lowest common ancestor of a given two node](https://github.com/kunalkakati/DSA/blob/main/Tree/Lowest_Common_Ancestor.cpp)
 
-### Heap
+### Graph
 
-- [Heap Insertion(max Heap)](https://github.com/kunalkakati/DSA/blob/main/Heap/Heap_Insertion.cpp)
-- [Heap Deletion(max heap)](https://github.com/kunalkakati/DSA/blob/main/Heap/Heap_Deletion.cpp)
+- [Breadth First Search](https://github.com/kunalkakati/DSA/blob/main/Graph/Breadth_First_Search.cpp)
+- [Depth First Search](https://github.com/kunalkakati/DSA/blob/main/Graph/Depth_First_Search.cpp)
 
 ### Sorting Algorithm
 
