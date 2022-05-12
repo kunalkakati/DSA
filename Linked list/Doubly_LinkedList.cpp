@@ -165,7 +165,7 @@ Node * Delete_before_a_Index(Node * head, int index){
     cout<<deleted_node->data<<" deleted."<<endl;
     delete q;
 
-    return head;
+    return deleted_node;
 }
 
 int main()
@@ -181,7 +181,8 @@ int main()
     head = Insert_before_a_Index(head, 2, 1);
     // head = Delete_first_Node(head);
     // head = Delete_Last_Node(head);
-    head = Delete_before_a_Index(head,1);
+    DisplayDaublyLinkedList(head);
+    Node * d = Delete_before_a_Index(head,1);
 
     DisplayDaublyLinkedList(head);
 

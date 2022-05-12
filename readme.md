@@ -30,6 +30,7 @@
 ### Queue
 
 - [Queue](https://github.com/kunalkakati/DSA/blob/main/Queue/Queue.cpp)
+- [Queue using Linked list](https://github.com/kunalkakati/DSA/blob/main/Queue/Queue_using_LinkedList.cpp)
 - [Circular queue](https://github.com/kunalkakati/DSA/blob/main/Queue/Circular_Queue.cpp)
 - [Double Ended queue or DEqueue](https://github.com/kunalkakati/DSA/blob/main/Queue/Double_Ended_Queue.cpp)
 
